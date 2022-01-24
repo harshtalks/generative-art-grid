@@ -31,3 +31,7 @@ To save the images:
 ```
 control + s
 ```
+
+![2022 01 24-22 53 14](https://user-images.githubusercontent.com/28556055/150835375-cf3d4c39-a0fd-4f09-a45f-75a31d1c099f.png)
+![2022 01 24-23 11 41](https://user-images.githubusercontent.com/28556055/150835656-068d9253-ae22-41fc-b699-0c03fc55e7bf.png)
+
