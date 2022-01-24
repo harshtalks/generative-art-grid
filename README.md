@@ -2,6 +2,9 @@
 
 Hi! I'm Harsh. IDK why am I introducing myself LOL. So I made these generative arts while I was taking an online course of creative coding on FrontendMasters.
 
+![2022 01 25-00 02 51](https://user-images.githubusercontent.com/28556055/150842878-b19c51d0-b0ef-4117-bd77-2566808b014f.png)
+
+
 ### Generative art with the help of HTML CANVAS APIS
 
 So download or fork this repo to checkout these generative art **right now!**
