@@ -39,7 +39,7 @@ const sketch = () => {
   points = random.shuffle(points);
 
   return ({ context, width, height, params }) => {
-    const margin = width * 0.075;
+    const margin = width * 0.125;
     context.fillStyle = "#FCF7F8";
     context.fillRect(0, 0, width, height);
 
